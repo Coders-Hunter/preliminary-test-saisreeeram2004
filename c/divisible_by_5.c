@@ -1,8 +1,8 @@
 #include <stdio.h>
-intmain[] {
-void check_divisibility(int num) {
-    // Expected output is "TRUE" or "FALSE"
-}
+intmain[] 
+    int num;
+    print["enter a number:"]
+    scan["%d"]
 
 int main() {
     int num;
